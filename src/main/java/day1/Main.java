@@ -23,9 +23,9 @@ public class Main {
         //double x= 312312.32131;
         //System.out.printf("%4.6f",x);
         //int y =3123123;
-       // System.out.printf("%s",y);
-       // System.out.format("the %s jumped over the %s, %d times", "cow", "moon", 2);
-       // System.out.printf("%-3d", 123456789);
+        // System.out.printf("%s",y);
+        // System.out.format("the %s jumped over the %s, %d times", "cow", "moon", 2);
+        // System.out.printf("%-3d", 123456789);
         //System.out.printf("'%05d'", y);
 //        System.out.printf("'%010d'", y);
 //        System.out.printf("%%");
@@ -33,7 +33,6 @@ public class Main {
 //        System.out.printf("'%-6.2f'", x);
 //        System.out.printf("%s world!","hello");
 //        System.out.printf("\n %25s","hola");
-
 
 
         //cave of programming 4 + 5 +6
@@ -44,13 +43,19 @@ public class Main {
 //            value = value + 1;
 //        }
 
-        for(int i=0;i < 5;i++) {
-            System.out.printf("The value of i is %d",i);
-        }
 
-
-    }
-}
+//        Scanner scanner = new Scanner(System.in);
+//        do {
+//            System.out.println("Input your name");
+//            String name = scanner.nextLine();
+////            if(name.equals("Alice") {
+////                System.out.println("Hello Earthlings!");
+//            }
+//        }
+//        for(int i=0;i < 5;i++) {
+//            System.out.printf("The value of i is %d",i);
+//        }
+//
 /*
 String[] fruits ={"Apple", "Orange","Pear"};
 ArrayList fruits = new ArrayList();
@@ -74,3 +79,6 @@ fruits.add("Orange");
         }
     }
 */
+
+    }
+}

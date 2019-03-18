@@ -10,8 +10,10 @@ public class Beer {
             if (beerNum ==1 ) {
                 word = "bottle";
             }
+            if (beerNum==99){
+                System.out.println(beerNum+ " " + word + " of beer on the wall");
+            }
             // The system.out of bottles of beer on the wall in the if statement already does this and makes it redundant
-           // System.out.println(beerNum+ " " +word + " of beer on the wall");
             System.out.println(beerNum + " " + word + " of beer.");
             System.out.println("Take one down.");
             System.out.println("Pass it around.");
