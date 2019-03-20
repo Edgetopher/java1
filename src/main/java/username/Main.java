@@ -24,15 +24,15 @@ public class Main {
         nums[5] = 20;
         nums[6] = 1;
         //    das.reverse("words");
-
-
-        System.out.println("Enter in your User");
-        inputUser = userInput.nextLine();
-
-        System.out.println("Enter in your password");
-        //do {
-            inputPassword = userInput.nextLine();
-            count = count + 1;
+        boolean y;
+       // System.out.println(y);
+//        System.out.println("Enter in your User");
+//        inputUser = userInput.nextLine();
+//
+//        System.out.println("Enter in your password");
+//        //do {
+//            inputPassword = userInput.nextLine();
+//            count = count + 1;
 //Part 1
 //        System.out.println("What is your first number?");
 //        num1 = userInput.nextInt();
